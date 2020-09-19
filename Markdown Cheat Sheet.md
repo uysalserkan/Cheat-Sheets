@@ -226,17 +226,17 @@ ___
 
 </br>
 
-# `#` Ana Başlık
+# Ana Başlık
 
-## `##` Sayfa Başlığı
+## Sayfa Başlığı
 
-### `###` Satır Başlığı
+### Satır Başlığı
 
-#### `####` Başlık 1
+#### Başlık 1
 
-##### `#####` Başlık 2
+##### Başlık 2
 
-###### `######` Başlık 3
+###### Başlık 3
 
 </br></br>
 
