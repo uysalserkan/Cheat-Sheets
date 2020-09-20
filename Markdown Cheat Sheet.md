@@ -6,6 +6,7 @@
 * [Yazı Stilleri](#yazı-sitilleri)
 * [Listeleme](#listeleme)
 * [Gelismis Komutlar](#gelişmiş-komutlar)
+* [Emojiler](#emojiler)
 
 </br>
 
@@ -89,7 +90,27 @@
 |                               *`- [ ] Yapılmamış`*                               |                                 İşaretsiz checkbox oluşturma işlemi.                                  |
 |                               *`- [ X ] Yapılmış`*                               |                                  İşaretli checkbox oluşturma işlemi.                                  |
 
+* * *
+
+</br></br>
+
+## Emojiler
+
 </br>
+
+|                                   Kod                                   |          İfade          |
+| :---------------------------------------------------------------------: | :---------------------: |
+|                        `:slightly_smiling_face:`                        | :slightly_smiling_face: |
+|                          `:money_mouth_face:`                           |   :money_mouth_face:    |
+|                              `:thinking:`                               |       :thinking:        |
+|                                `:hand:`                                 |         :hand:          |
+|                                 `:+1:`                                  |          :+1:           |
+|                              `:handshake:`                              |       :handshake:       |
+|                            `:writing_hand:`                             |     :writing_hand:      |
+|                              `:moneybag:`                               |       :moneybag:        |
+| Daha fazlası için *[bağlantı][emojibağlantısı]*'yı takip edebilirsiniz. |         :link:          |
+
+</br></br>
 
 ## Örnekler
 
@@ -259,3 +280,4 @@ int main(){
 * [ ] ~~Bu görevden vazgeçildi..~~
 
 [myLinkedin]: https://linkedin.com/in/uysalserkan
+[emojibağlantısı]: https://www.webfx.com/tools/emoji-cheat-sheet/
