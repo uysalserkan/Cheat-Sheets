@@ -91,133 +91,6 @@
 
 </br>
 
-<!-- ___test___
-
-***test2***
-
-Here's a sentence with a footnote. [^1]
-
-### My Great Heading {#başlıklar}
-
-* Bullet lists are easy too
-
-- Another one
-
-+ Another one
-
-+ [ ] Y
-
-* * *
-
-Cplusplus:
-
-    //Code
-    which(is_easy) to_remember();
-And now some code:
-
-    // Code is just text indented a bit
-    which(is_easy) to_remember();
-
-~~~CPP
-// Markdown extra adds un-indented code blocks too
-
-if (this_is_more_code == true && !indented) {
-  // tild wrapped code blocks, also not indented
-}
-~~~
-
-- - -
-
-```CPP
-// Markdown extra adds un-indented code blocks too
-
-if (this_is_more_code == true && !indented) {
-    // tild wrapped code blocks, also not indented
-}
-```
-
-[^1]: This is the footnote.
-
-* [x] Write the press release
-* [ ] Update the website
-* [ ] Contact the media
-* [ ] Test
-
-```plain-text
-TEST TEST TEST
-```
-
-> Alıntıla
-> > Çift Alıntıla
-> > Çift 2
->
-> xdxdd
-> test
-> xdxd
-
-> Email-style angle brackets are used for blockquotes.
->> You can also nest them.
->>
-> * You can quote a list.
-> * Etc.
-
-> To break the nested blockquote, add a space between lines.
-
-
-xx
-:  Test
-
-– [x] Task to do
-
-term
-: definition
-
-~~Flat is world~~
-
-– [ x ] done
-
-Here's a sentence with a footnote. [^1]
-
-Text serkan.
-
-[^1]: This is the footnote.
-```json
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
----
-
-x
-
-***
-
-x
-
-___
-
-
-
-
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-
-
-*[HTML]: HyperText Markup Language
-
-
-
-
-
- -->
-
 ## Örnekler
 
 </br>
@@ -242,18 +115,146 @@ ___
 
 ### Yazı Stilleri Örnekleri
 
+</br>
+
+*Eğik Yazı 1*
+
+_Eğik Yazı 2_
+
+**Kalın Yazı 1**
+
+__Kalın Yazı 2__
+
+***Kalın ve Eğik Yazı 1***
+
+___Kalın ve Eğik Yazı 2___
+
+~~Üzeri Çizili Yazı~~
+
+</br>
+
+> `>` Bu işaret ile
+> alıntı yapabilirsiniz.
+> > `> >` böyle ise iç alıntıya
+> geçebilirsiniz.
+> >
+> ve bir satır `> >` bu şekilde boşluk bırakarak alt alıntıya devam edebilrsiniz.
+
+> Bir satır boşluk bırakarak diğer bir
+> alıntıya geçiş yapabilirsiniz.
+
+</br>
+
+` `` işareti ile tek satırlık kod yazabilrsiniz. `
+
+</br>
+
+veya kodlarınızı böyle:
+
+    yazabilirsiniz. Fakat bu durumda 
+    her hangi bir dil belirtemiyorsunuz.
+
+</br>
+
+`- - - işareti ile çizgi`
+
+- - -
+
+`* * * işareti ile çizgi`
+
+* * *
+
 </br></br>
 
 ### Listeleme Örnekleri
+
+</br>
+
+1. Sayısal
+2. Olarak
+3. Artan
+
+</br>
+
+* Noktasal
+- Olarak
++ Artan
+
+</br>
+
+* İç
+  1. İçe
+     * Geçmiş
+       1. Listeleri
+          * Kombinleyebilirsiniz.
 
 </br></br>
 
 ### Gelismis Ornekler
 
+</br>
+
 Burada herhangi [bir link][1] ve diğer [link][2] bulunuyor.
+
+</br>
 
 [1]: http://github.com/uysalserkan "Title"
 [2]: http://github.com/uysalserkan "Title"
 
+</br>
+
 Veya satır içi [link](http://github.com/uysalserkan) de bulunabilir.
 
+</br>
+
+![GitHub Profil Fotoğrafı](https://avatars2.githubusercontent.com/u/24881389?s=460&u=0a6812427c32c13988824dbb597508482f71b66f&v=4)
+
+</br>
+
+Serkan
+:  Yapay zeka ve makine öğrenmesi ile ilgileniyorum.
+
+</br>
+
+**Mail Adresi**
+: uysalserkan08@gmail.com
+
+</br>
+
+| *Birinci Kolon* | İkinci Kolon | Üçüncü Kolon |
+| :-------------: | -----------: | :----------- |
+|     Girdi 1     |  ~~Girdi 2~~ | Girdi 1.2    |
+|     Girdi 3     |      Girdi 4 | Girdi 3.4    |
+|     Girdi 4     |      Girdi 6 | Girdi 4.6    |
+
+</br>
+
+```Python
+def main():
+    for index in range(25):
+        print("Serkan: {}".format(index))
+
+if __name__ == "__main__":
+    print("Main fonksiyon başlatılıyor..")
+    # Buraya yorum satırları koyabilirsiniz..
+    main()
+```
+
+</br>
+
+~~~CPP
+int main(){
+  for(int i=0;i<25;i++){
+    cout << "Serkan: "<< i << endl;
+  }
+}
+~~~
+
+</br>
+
+* [ ] Bu görev __yapılacak..__
+* [x] Bu görev yapıldı..
+* [x] [Dış link verebilirsiniz.][myLinkedin]
+* [ ] ~~Bu görevden vazgeçildi..~~
+
+[myLinkedin]: https://linkedin.com/in/uysalserkan
