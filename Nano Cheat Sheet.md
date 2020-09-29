@@ -4,17 +4,15 @@
 
 ## Bölümler
 
-- [Nano Cheat Sheet](#nano-cheat-sheet)
-  - [Bölümler](#bölümler)
-    - [Dosya İşlemleri](#dosya-i̇şlemleri)
-    - [Düzenleme İşlemleri](#düzenleme-i̇şlemleri)
-    - [Araştırma ve Yerleştirme İşlemleri](#araştırma-ve-yerleştirme-i̇şlemleri)
-    - [Silme İşlemleri](#silme-i̇şlemleri)
-    - [Özel Operasyon İşlemleri](#özel-operasyon-i̇şlemleri)
-    - [Dosya İçerisinde Hareket İşlemleri](#dosya-i̇çerisinde-hareket-i̇şlemleri)
-    - [Dosya İçerisinde Özel Hareket İşlemleri](#dosya-i̇çerisinde-özel-hareket-i̇şlemleri)
-    - [Bilgilendirme İşlemleri](#bilgilendirme-i̇şlemleri)
-    - [Diğer İşlemler](#diğer-i̇şlemler)
+- [Dosya İşlemleri](#dosya-i̇şlemleri)
+- [Düzenleme İşlemleri](#düzenleme-i̇şlemleri)
+- [Araştırma ve Yerleştirme İşlemleri](#araştırma-ve-yerleştirme-i̇şlemleri)
+- [Silme İşlemleri](#silme-i̇şlemleri)
+- [Özel Operasyon İşlemleri](#özel-operasyon-i̇şlemleri)
+- [Dosya İçerisinde Hareket İşlemleri](#dosya-i̇çerisinde-hareket-i̇şlemleri)
+- [Dosya İçerisinde Özel Hareket İşlemleri](#dosya-i̇çerisinde-özel-hareket-i̇şlemleri)
+- [Bilgilendirme İşlemleri](#bilgilendirme-i̇şlemleri)
+- [Diğer İşlemler](#diğer-i̇şlemler)
 
 </br>
 
@@ -140,6 +138,8 @@
 |   `Alt+V`   | Özel tuş girdisi yazdırabilirsiniz.   |
 |  `Ctrl+L`   | Ekranı yeniler.                       |
 |  `Ctrl+Z`   | Nanoyu durdurur.                      |
+
+</br>
 
 :pray: Eğer :question: işaretlerinin yerine uygun ifade olduğunu düşündüğünüz bir açıklama varsa veya eklenecek komutlar varsa isterseniz [request][request-link] açabilir veya [linkedin][linkedin-link] üzerinden benimle iletişime geçebilirsiniz.
 
