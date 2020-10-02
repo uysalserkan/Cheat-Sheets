@@ -56,13 +56,14 @@
 
 ### Silme İşlemleri
 
-|     Komutlar      | Açıklama                               |
-| :---------------: | -------------------------------------- |
-|    `CTRL + H`     | İşaretçi öncesindeki karakteri siler.  |
-|    `CTRL + D`     | İşaretçi sonrasındaki karakteri siler. |
-| `ALT + Backspace` | İşaretçinin solundaki kelimeyi siler.  |
-|   `CTRL + Del`    | İşaretçinin sağındaki kelimeyi siler.  |
-|    `ALT + Del`    | İşaretçinin bulunduğu satırı siler.    |
+|     Komutlar      | Açıklama                                      |
+| :---------------: | --------------------------------------------- |
+|    `CTRL + H`     | İşaretçi öncesindeki karakteri siler.         |
+|    `CTRL + D`     | İşaretçi sonrasındaki karakteri siler.        |
+| `ALT + Backspace` | İşaretçinin solundaki kelimeyi siler.         |
+|   `CTRL + Del`    | İşaretçinin sağındaki kelimeyi siler.         |
+|    `ALT + Del`    | İşaretçinin bulunduğu satırı siler.           |
+|     `ALT + T`     | İşaretçinin bulunduğu yerden ilerisini siler. |
 
 </br>
 
@@ -84,60 +85,74 @@
 
 ### Dosya İçerisinde Hareket İşlemleri
 
-| Komutlar | Açıklama                           |
-| :------: | ---------------------------------- |
-| `CTRL+B` | İşaretçi bir karakter geri gider.  |
-| `CTRL+F` | İşaretçi bir karakter ileri gider. |
-| `CTRL+←` | İşaretçi bir kelime geri gider.    |
-| `CTRL+→` | İşaretçi bir kelime ileri gider.   |
-| `CTRL+A` | İşaretçi satır başına gider.       |
-| `CTRL+E` | İşaretçi satır sonuna gider.       |
-| `CTRL+P` | İşaretçi bir satır yukarıya gider. |
-| `CTRL+N` | İşaretçi bir satır aşağıya gider.  |
-| `CTRL+↑` | İşaretçi bir blok geri gider.      |
-| `CTRL+↓` | İşaretçi bir blok ileri gider.     |
-| `CTRL+Y` | İşaretçi bir sayfa ileri gider.    |
-| `CTRL+V` | İşaretçi bir sayfa geri gider.     |
-| `ALT+\`  | Buffer başına gider.               |
-| `ALT+/`  | Buffer sonuna gider.               |
+|        Komutlar        | Açıklama                               |
+| :--------------------: | -------------------------------------- |
+|       `CTRL + B`       | İşaretçi bir karakter geri gider.      |
+|       `CTRL + F`       | İşaretçi bir karakter ileri gider.     |
+|       `CTRL + ←`       | İşaretçi bir kelime geri gider.        |
+|       `CTRL + →`       | İşaretçi bir kelime ileri gider.       |
+|       `CTRL + A`       | İşaretçi satır başına gider.           |
+|       `CTRL + E`       | İşaretçi satır sonuna gider.           |
+|       `CTRL + P`       | İşaretçi bir satır yukarıya gider.     |
+|       `CTRL + N`       | İşaretçi bir satır aşağıya gider.      |
+|       `CTRL + ↑`       | İşaretçi bir blok geri gider.          |
+|       `CTRL + ↓`       | İşaretçi bir blok ileri gider.         |
+|       `CTRL + Y`       | İşaretçi bir sayfa ileri gider.        |
+|       `CTRL + V`       | İşaretçi bir sayfa geri gider.         |
+|       `ALT + \`        | Buffer başına gider.                   |
+|       `ALT + /`        | Buffer sonuna gider.                   |
+| `ALT + 9 veya ALT + 7` | Üst satır başlıklarına gider.          |
+|       `ALT + 8`        | Alt satır başlıklarına gider.          |
+|       `ALT + 0`        | Alta doğru satır boşluklarına ilerler. |
 
 </br>
 
 ### Dosya İçerisinde Özel Hareket İşlemleri
 
-| Komutlar | Açıklama                               |
-| :------: | -------------------------------------- |
-| `Alt+G`  | İşaretçi belirtilen satıra gider.      |
-| `Alt+]`  | İşaretçi braketin diğer kısmına gider. |
-| `Alt+↑`  | Ekran görüntüsünü yukarıya kaydırır.   |
-| `Alt+↓`  | Ekran görüntüsünü aşağıya kaydırır.    |
-| `Alt+<`  | :question:                             |
-| `Alt+>`  | :question:                             |
+| Komutlar  | Açıklama                               |
+| :-------: | -------------------------------------- |
+| `Alt + G` | İşaretçi belirtilen satıra gider.      |
+| `Alt + ]` | İşaretçi braketin diğer kısmına gider. |
+| `Alt + ↑` | Ekran görüntüsünü yukarıya kaydırır.   |
+| `Alt + ↓` | Ekran görüntüsünü aşağıya kaydırır.    |
+| `Alt + <` | :question:                             |
+| `Alt + >` | :question:                             |
+| `Alt + S` | :question:                             |
+| `Alt + L` | :question:                             |
+| `Alt + Z` | :question:                             |
 
 </br>
 
 ### Bilgilendirme İşlemleri
 
-| Komutlar | Açıklama                                                               |
-| :------: | ---------------------------------------------------------------------- |
-| `Ctrl+C` | İşaretçi satır/kelime pozisyonunu gösterir.                            |
-| `Alt+D`  | Dosyada bulunan toplam kelime, satır, karakter istatistiğini gösterir. |
-| `Ctrl+G` | Yardım sayfasını gösterir.                                             |
+|  Komutlar  | Açıklama                                                               |
+| :--------: | ---------------------------------------------------------------------- |
+| `Ctrl + C` | İşaretçi satır/kelime pozisyonunu gösterir.                            |
+| `Alt + D`  | Dosyada bulunan toplam kelime, satır, karakter istatistiğini gösterir. |
+| `Ctrl + G` | Yardım sayfasını gösterir.                                             |
+| `ALT + Y`  | Syntaxları renklendirmeyi açıp/kapatır.                                |
+| `ALT + X`  | Yardımcı modu açıp/kapatır.                                            |
+| `ALT + M`  | Mouse destek modu açıp/kapatır.                                        |
+| `ALT + C`  | Sabit imleç modunu açıp/kapatır.                                       |
 
 </br>
 
 ### Diğer İşlemler
 
-|  Komutlar   | Açıklama                              |
-| :---------: | ------------------------------------- |
-|   `Alt+A`   | İşaretleme aracını açıp kapatır.      |
-|    `Tab`    | Bir satır boşluk bırakır.             |
-| `Shift+Tab` | Bir satır boşluğu kaldırır.           |
-|   `Alt+N`   | Satır numaralarını açıp kapatır.      |
-|   `Alt+P`   | Boşlukların gösterimini açıp kapatır. |
-|   `Alt+V`   | Özel tuş girdisi yazdırabilirsiniz.   |
-|  `Ctrl+L`   | Ekranı yeniler.                       |
-|  `Ctrl+Z`   | Nanoyu durdurur.                      |
+|   Komutlar    | Açıklama                                         |
+| :-----------: | ------------------------------------------------ |
+|   `Alt + i`   | Otomatik boşluk bırakma işlemini gerçekleştirir. |
+|   `Alt + P`   | Boşlukları . olarak gösterir.                    |
+|   `Alt + J`   | Alt alta boşluksuz satırları yan yana dizer.     |
+|   `Alt + O`   | Tab karakterlerini space karakterine çevirir.    |
+|   `Alt + A`   | İşaretleme aracını açıp kapatır.                 |
+|     `Tab`     | Bir satır boşluk bırakır.                        |
+| `Shift + Tab` | Bir satır boşluğu kaldırır.                      |
+|   `Alt + N`   | Satır numaralarını açıp kapatır.                 |
+|   `Alt + P`   | Boşlukların gösterimini açıp kapatır.            |
+|   `Alt + V`   | Özel tuş girdisi yazdırabilirsiniz.              |
+|  `Ctrl + L`   | Ekranı yeniler.                                  |
+|  `Ctrl + Z`   | Nanoyu durdurur.                                 |
 
 </br>
 
