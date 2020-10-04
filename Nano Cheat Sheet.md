@@ -4,7 +4,7 @@
 
 ## Bölümler
 
-- [Dosya İşlemleri](#dosya-i̇şlemleri)
+- Dosya İşlemleri](#dosya-i̇şlemleri)
 - [Düzenleme İşlemleri](#düzenleme-i̇şlemleri)
 - [Araştırma ve Yerleştirme İşlemleri](#araştırma-ve-yerleştirme-i̇şlemleri)
 - [Silme İşlemleri](#silme-i̇şlemleri)
@@ -32,6 +32,7 @@
 |  Komutlar  | Açıklama                                                                        |
 | :--------: | ------------------------------------------------------------------------------- |
 | `CTRL + K` | İşaretçinin bulunduğu satırı kopyalayıp keser.                                  |
+| `CTRL + M` | Bir üst satıra bir satır boşluğu ekler.                                         |
 | `ALT + 6`  | İşaretçinin bulunduğu satırı kopyalar.                                          |
 | `CTRL + U` | İşaretçinin bulunduğu satırın altına kopyalanan metni yapıştırır.               |
 | `ALT + T`  | İşaretçinin bulunduğu satırdan en alt satıra kadar kopyalayıp keser.            |
@@ -85,41 +86,42 @@
 
 ### Dosya İçerisinde Hareket İşlemleri
 
-|        Komutlar        | Açıklama                               |
-| :--------------------: | -------------------------------------- |
-|       `CTRL + B`       | İşaretçi bir karakter geri gider.      |
-|       `CTRL + F`       | İşaretçi bir karakter ileri gider.     |
-|       `CTRL + ←`       | İşaretçi bir kelime geri gider.        |
-|       `CTRL + →`       | İşaretçi bir kelime ileri gider.       |
-|       `CTRL + A`       | İşaretçi satır başına gider.           |
-|       `CTRL + E`       | İşaretçi satır sonuna gider.           |
-|       `CTRL + P`       | İşaretçi bir satır yukarıya gider.     |
-|       `CTRL + N`       | İşaretçi bir satır aşağıya gider.      |
-|       `CTRL + ↑`       | İşaretçi bir blok geri gider.          |
-|       `CTRL + ↓`       | İşaretçi bir blok ileri gider.         |
-|       `CTRL + Y`       | İşaretçi bir sayfa ileri gider.        |
-|       `CTRL + V`       | İşaretçi bir sayfa geri gider.         |
-|       `ALT + \`        | Buffer başına gider.                   |
-|       `ALT + /`        | Buffer sonuna gider.                   |
-| `ALT + 9 veya ALT + 7` | Üst satır başlıklarına gider.          |
-|       `ALT + 8`        | Alt satır başlıklarına gider.          |
-|       `ALT + 0`        | Alta doğru satır boşluklarına ilerler. |
+|        Komutlar        | Açıklama                                  |
+| :--------------------: | ----------------------------------------- |
+|       `CTRL + B`       | İşaretçi bir karakter geri gider.         |
+|       `CTRL + F`       | İşaretçi bir karakter ileri gider.        |
+|       `CTRL + ←`       | İşaretçi bir kelime geri gider.           |
+|       `CTRL + →`       | İşaretçi bir kelime ileri gider.          |
+|       `CTRL + A`       | İşaretçi satır başına gider.              |
+|       `CTRL + E`       | İşaretçi satır sonuna gider.              |
+|       `CTRL + P`       | İşaretçi bir satır yukarıya gider.        |
+|       `CTRL + N`       | İşaretçi bir satır aşağıya gider.         |
+|       `CTRL + ↑`       | İşaretçi bir blok geri gider.             |
+|       `CTRL + ↓`       | İşaretçi bir blok ileri gider.            |
+|       `CTRL + Y`       | İşaretçi bir sayfa ileri gider.           |
+|       `CTRL + V`       | İşaretçi bir sayfa geri gider.            |
+|       `CTRL + 2`       | İşaretçi bir sonraki gelime başına gider. |
+|       `ALT + \`        | Buffer başına gider.                      |
+|       `ALT + /`        | Buffer sonuna gider.                      |
+| `ALT + 9 veya ALT + 7` | Üst satır başlıklarına gider.             |
+|       `ALT + 8`        | Alt satır başlıklarına gider.             |
+|       `ALT + 0`        | Alta doğru satır boşluklarına ilerler.    |
 
 </br>
 
 ### Dosya İçerisinde Özel Hareket İşlemleri
 
-| Komutlar  | Açıklama                               |
-| :-------: | -------------------------------------- |
-| `Alt + G` | İşaretçi belirtilen satıra gider.      |
-| `Alt + ]` | İşaretçi braketin diğer kısmına gider. |
-| `Alt + ↑` | Ekran görüntüsünü yukarıya kaydırır.   |
-| `Alt + ↓` | Ekran görüntüsünü aşağıya kaydırır.    |
-| `Alt + <` | :question:                             |
-| `Alt + >` | :question:                             |
-| `Alt + S` | :question:                             |
-| `Alt + L` | :question:                             |
-| `Alt + Z` | :question:                             |
+|         Komutlar          | Açıklama                               |
+| :-----------------------: | -------------------------------------- |
+| `Alt + G` veya `CTRL + 7` | İşaretçi belirtilen satıra gider.      |
+|         `Alt + ]`         | İşaretçi braketin diğer kısmına gider. |
+|         `Alt + ↑`         | Ekran görüntüsünü yukarıya kaydırır.   |
+|         `Alt + ↓`         | Ekran görüntüsünü aşağıya kaydırır.    |
+|         `Alt + <`         | :question:                             |
+|         `Alt + >`         | :question:                             |
+|         `Alt + S`         | :question:                             |
+|         `Alt + L`         | :question:                             |
+|         `Alt + Z`         | :question:                             |
 
 </br>
 
