@@ -4,7 +4,7 @@
 
 ## Bölümler
 
-- Dosya İşlemleri](#dosya-i̇şlemleri)
+- [Dosya İşlemleri](#dosya-i̇şlemleri)
 - [Düzenleme İşlemleri](#düzenleme-i̇şlemleri)
 - [Araştırma ve Yerleştirme İşlemleri](#araştırma-ve-yerleştirme-i̇şlemleri)
 - [Silme İşlemleri](#silme-i̇şlemleri)
