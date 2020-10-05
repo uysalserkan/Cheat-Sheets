@@ -91,7 +91,7 @@
 |       `CTRL + B`       | İşaretçi bir karakter geri gider.         |
 |       `CTRL + F`       | İşaretçi bir karakter ileri gider.        |
 |       `CTRL + ←`       | İşaretçi bir kelime geri gider.           |
-|       `CTRL + →`       | İşaretçi bir kelime ileri gider.          |
+|       `CTRL + →` veya `CTRL + 2`       | İşaretçi bir kelime ileri gider.          |
 |       `CTRL + A`       | İşaretçi satır başına gider.              |
 |       `CTRL + E`       | İşaretçi satır sonuna gider.              |
 |       `CTRL + P`       | İşaretçi bir satır yukarıya gider.        |
@@ -100,7 +100,6 @@
 |       `CTRL + ↓`       | İşaretçi bir blok ileri gider.            |
 |       `CTRL + Y`       | İşaretçi bir sayfa ileri gider.           |
 |       `CTRL + V`       | İşaretçi bir sayfa geri gider.            |
-|       `CTRL + 2`       | İşaretçi bir sonraki gelime başına gider. |
 |       `ALT + \`        | Buffer başına gider.                      |
 |       `ALT + /`        | Buffer sonuna gider.                      |
 | `ALT + 9 veya ALT + 7` | Üst satır başlıklarına gider.             |
