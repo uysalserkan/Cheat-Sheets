@@ -66,7 +66,7 @@
 |       *`*`*        |                             Asterisk işareti ile lisleleme. (Noktasal)                             |
 |       *`+`*        |                               Artı işareti ile lisleleme. (Noktasal)                               |
 |       *`-`*        |                               Eksi işareti ile lisleleme. (Noktasal)                               |
-| *`1.`</br></t>`*`* | Bir operatörün ardıntan tab boşluğu bıraktıktan sonra </br>diğer operatör ile alt liste oluşturma. |
+| *`1.`</br></t>`*`* | Bir operatörün ardından tab boşluğu bıraktıktan sonra </br>diğer operatör ile alt liste oluşturma. |
 
 * * *
 
