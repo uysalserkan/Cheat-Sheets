@@ -7,6 +7,6 @@
 [markdown-link]: /Markdown%20Cheat%20Sheet.md
 [markdown-link-en]: /Markdown%20Cheat%20Sheet%20EN.md
 [git-link]: /Git%20Cheat%20Sheet.md
-[git-link-en]: /
+[git-link-en]: /Git%20Cheat%20Sheet%20EN.md
 [nano-link]: /Nano%20Cheat%20Sheet.md
 [nano-link-en]: /Nano%20Cheat%20Sheet%20EN.md
