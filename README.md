@@ -1,7 +1,7 @@
 # Cheat Sheet Listesi
 
 * ## Markdown Cheat Sheet ([TR][markdown-link] - [EN][markdown-link-en])
-* ## Git Cheat Sheet ([TR][git-link] - [EN])
+* ## Git Cheat Sheet ([TR][git-link] - [EN][git-link-en])
 * ## Nano Cheat Sheet ([TR][nano-link] - [EN][nano-link-en])
 * ## Wget Cheat Sheet ([TR][wget-link] - [EN])
 
