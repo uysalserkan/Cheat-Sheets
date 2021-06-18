@@ -20,7 +20,8 @@ Git işlemlerinde bağlanılacak hesabı tanımlıyoruz.
 
 `$ git config --global user.email "uysalserkan08@gmail.com"`
 
-Komut çıktılarının renkli çıkmasını sağlıyoruz. 
+Komut çıktılarının renkli çıkmasını sağlıyoruz.
+
 ##### (Auto yerine `normal`, `red`, `blue`, vs. koyabilir veya hexadecimal kod ile renk belirleyebiliriz.)
 
 `$ git config --global color.ui auto`
@@ -87,23 +88,23 @@ Log dosyalarını detaylı inceleme.
 
 `$ git log -n 5 --oneline --graph --stat --decorate`
 
-  * `-n 5` ile en son oluşturulan commitleri getirir.
+* `-n 5` ile en son oluşturulan commitleri getirir.
 
-  * `--oneline` ile commit mesajlarını tek satırda gösterir ve log kodunu kısaltır.
+* `--oneline` ile commit mesajlarını tek satırda gösterir ve log kodunu kısaltır.
 
-  * `--graph` ile görsel olarak commitlerin durumunu gösterir.
-  
-  * `--stat` ile hangi log kaydında ne olduğunu daha fazla ayrıntı ile gösterir.
-  
-  * `--decorate` ile branch adını veya tag'ını ekler.
+* `--graph` ile görsel olarak commitlerin durumunu gösterir.
 
-`$ git log -p --author="Serkan UYSAL" --grep="UYSAL" `
+* `--stat` ile hangi log kaydında ne olduğunu daha fazla ayrıntı ile gösterir.
 
-  * `-p` ile nelerin değiştiğini ayrıntılı gösterir.
+* `--decorate` ile branch adını veya tag'ını ekler.
+
+`$ git log -p --author="Serkan UYSAL" --grep="UYSAL"`
+
+* `-p` ile nelerin değiştiğini ayrıntılı gösterir.
   
-  * `--author` ile belirlenen kişinin commitlerini gösterir.
+* `--author` ile belirlenen kişinin commitlerini gösterir.
   
-  * `--grep` ile belirtelen kelimeleri veya cümleyi log kayıtlarında arar.
+* `--grep` ile belirtelen kelimeleri veya cümleyi log kayıtlarında arar.
   
 Repository'de bulunan tag'ları getirir.
 

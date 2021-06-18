@@ -21,6 +21,7 @@ Adding default e-mail address to account.
 `$ git config --global user.email "uysalserkan08@gmail.com"`
 
 Printing colourful commands
+
 ##### (You can set `normal`, `red`, `blue`, etc. or hexadecimal code instead of auto.)
 
 `$ git config --global color.ui auto`
@@ -87,24 +88,24 @@ Log files with long detailes.
 
 `$ git log -n 5 --oneline --graph --stat --decorate`
 
-  * `-n 5` last 5 commits.
+* `-n 5` last 5 commits.
 
-  * `--oneline` short commit messages.
+* `--oneline` short commit messages.
 
-  * `--graph` graphical commits.
-  
-  * `--stat` long description commits.
-  
-  * `--decorate` show branch names and tags.
+* `--graph` graphical commits.
 
-`$ git log -p --author="Serkan UYSAL" --grep="UYSAL" `
+* `--stat` long description commits.
 
-  * `-p` showing differences.
-  
-  * `--author` showing this author commits.
-  
-  * `--grep` searching word(s) in log files.
-  
+* `--decorate` show branch names and tags.
+
+`$ git log -p --author="Serkan UYSAL" --grep="UYSAL"`
+
+* `-p` showing differences.
+
+* `--author` showing this author commits.
+
+* `--grep` searching word(s) in log files.
+
 Getting tags.
 
 `$ git tag`

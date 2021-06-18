@@ -4,15 +4,17 @@
 
 ## Contents
 
-- [File Operations](#file-operations)
-- [Edit Operations](#edit-operations)
-- [Searching and Inserting Operations](#searching-and-inserting-operations)
-- [Deleting Operations](#deleting-operations)
-- [Special Operations](#special-operations)
-- [Moving in File Operations](#moving-in-file-operations)
-- [Special Operations in File](#special-operations-in-file)
-- [Information Operations](#information-operations)
-- [Other Operations](#other-operations)
+- [Nano Cheat Sheet](#nano-cheat-sheet)
+  - [Contents](#contents)
+    - [File Operations](#file-operations)
+    - [Edit Operations](#edit-operations)
+    - [Searching and Inserting Operations](#searching-and-inserting-operations)
+    - [Deleting Operations](#deleting-operations)
+    - [Special Operations](#special-operations)
+    - [Moving in File Operations](#moving-in-file-operations)
+    - [Special Operations in File](#special-operations-in-file)
+    - [Information Operations](#information-operations)
+    - [Other Operations](#other-operations)
 
 </br>
 

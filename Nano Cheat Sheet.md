@@ -4,15 +4,17 @@
 
 ## Bölümler
 
-- [Dosya İşlemleri](#dosya-i̇şlemleri)
-- [Düzenleme İşlemleri](#düzenleme-i̇şlemleri)
-- [Araştırma ve Yerleştirme İşlemleri](#araştırma-ve-yerleştirme-i̇şlemleri)
-- [Silme İşlemleri](#silme-i̇şlemleri)
-- [Özel Operasyon İşlemleri](#özel-operasyon-i̇şlemleri)
-- [Dosya İçerisinde Hareket İşlemleri](#dosya-i̇çerisinde-hareket-i̇şlemleri)
-- [Dosya İçerisinde Özel Hareket İşlemleri](#dosya-i̇çerisinde-özel-hareket-i̇şlemleri)
-- [Bilgilendirme İşlemleri](#bilgilendirme-i̇şlemleri)
-- [Diğer İşlemler](#diğer-i̇şlemler)
+- [Nano Cheat Sheet](#nano-cheat-sheet)
+  - [Bölümler](#bölümler)
+    - [Dosya İşlemleri](#dosya-i̇şlemleri)
+    - [Düzenleme İşlemleri](#düzenleme-i̇şlemleri)
+    - [Araştırma ve Yerleştirme İşlemleri](#araştırma-ve-yerleştirme-i̇şlemleri)
+    - [Silme İşlemleri](#silme-i̇şlemleri)
+    - [Özel Operasyon İşlemleri](#özel-operasyon-i̇şlemleri)
+    - [Dosya İçerisinde Hareket İşlemleri](#dosya-i̇çerisinde-hareket-i̇şlemleri)
+    - [Dosya İçerisinde Özel Hareket İşlemleri](#dosya-i̇çerisinde-özel-hareket-i̇şlemleri)
+    - [Bilgilendirme İşlemleri](#bilgilendirme-i̇şlemleri)
+    - [Diğer İşlemler](#diğer-i̇şlemler)
 
 </br>
 
@@ -86,25 +88,25 @@
 
 ### Dosya İçerisinde Hareket İşlemleri
 
-|        Komutlar        | Açıklama                                  |
-| :--------------------: | ----------------------------------------- |
-|       `CTRL + B`       | İşaretçi bir karakter geri gider.         |
-|       `CTRL + F`       | İşaretçi bir karakter ileri gider.        |
-|       `CTRL + ←`       | İşaretçi bir kelime geri gider.           |
-|       `CTRL + →` veya `CTRL + 2`       | İşaretçi bir kelime ileri gider.          |
-|       `CTRL + A`       | İşaretçi satır başına gider.              |
-|       `CTRL + E`       | İşaretçi satır sonuna gider.              |
-|       `CTRL + P`       | İşaretçi bir satır yukarıya gider.        |
-|       `CTRL + N`       | İşaretçi bir satır aşağıya gider.         |
-|       `CTRL + ↑`       | İşaretçi bir blok geri gider.             |
-|       `CTRL + ↓`       | İşaretçi bir blok ileri gider.            |
-|       `CTRL + Y`       | İşaretçi bir sayfa ileri gider.           |
-|       `CTRL + V`       | İşaretçi bir sayfa geri gider.            |
-|       `ALT + \`        | Buffer başına gider.                      |
-|       `ALT + /`        | Buffer sonuna gider.                      |
-| `ALT + 9 veya ALT + 7` | Üst satır başlıklarına gider.             |
-|       `ALT + 8`        | Alt satır başlıklarına gider.             |
-|       `ALT + 0`        | Alta doğru satır boşluklarına ilerler.    |
+|          Komutlar          | Açıklama                               |
+| :------------------------: | -------------------------------------- |
+|         `CTRL + B`         | İşaretçi bir karakter geri gider.      |
+|         `CTRL + F`         | İşaretçi bir karakter ileri gider.     |
+|         `CTRL + ←`         | İşaretçi bir kelime geri gider.        |
+| `CTRL + →` veya `CTRL + 2` | İşaretçi bir kelime ileri gider.       |
+|         `CTRL + A`         | İşaretçi satır başına gider.           |
+|         `CTRL + E`         | İşaretçi satır sonuna gider.           |
+|         `CTRL + P`         | İşaretçi bir satır yukarıya gider.     |
+|         `CTRL + N`         | İşaretçi bir satır aşağıya gider.      |
+|         `CTRL + ↑`         | İşaretçi bir blok geri gider.          |
+|         `CTRL + ↓`         | İşaretçi bir blok ileri gider.         |
+|         `CTRL + Y`         | İşaretçi bir sayfa ileri gider.        |
+|         `CTRL + V`         | İşaretçi bir sayfa geri gider.         |
+|         `ALT + \`          | Buffer başına gider.                   |
+|         `ALT + /`          | Buffer sonuna gider.                   |
+|   `ALT + 9 veya ALT + 7`   | Üst satır başlıklarına gider.          |
+|         `ALT + 8`          | Alt satır başlıklarına gider.          |
+|         `ALT + 0`          | Alta doğru satır boşluklarına ilerler. |
 
 </br>
 
